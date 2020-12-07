@@ -5,7 +5,7 @@ import time
 import requests
 from colorama import Fore
 def __1__():
-    try:
+
         print(Fore.GREEN + "Hello\nWelcome Back ;) ")
         time.sleep(2)
         url = input(Fore.YELLOW + "Enter Your Address Target ==>  " )
@@ -34,7 +34,7 @@ def __1__():
         else:
             try:
                 print(Fore.GREEN + "\n[+] - Your Target Is WordPress ;)")
-    except:
+
         try:
             print(Fore.GREEN + "\nPleass Enter You Go To The Mano")
             input("")
