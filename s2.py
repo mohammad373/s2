@@ -5,6 +5,7 @@ import time
 import requests
 from colorama import Fore
 def __1__():
+        os.system("clear")
 
         print(Fore.GREEN + "Hello\nWelcome Back ;) ")
         time.sleep(2)
