@@ -35,10 +35,8 @@ def __1__():
             try:
                 print(Fore.GREEN + "\n[+] - Your Target Is WordPress ;)")
 
-        try:
+
             print(Fore.GREEN + "\nPleass Enter You Go To The Mano")
             input("")
             os.system("clear")
-        except:
-            pass
 __1__()
